@@ -29,15 +29,15 @@
      inkscape:snap-global="true"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="583.99997"
-     inkscape:cy="983.99995"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="249.74998"
+     inkscape:cy="874.49991"
      inkscape:window-width="1080"
      inkscape:window-height="1819"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g610597"
      inkscape:snap-text-baseline="false"
      inkscape:snap-others="true"
      inkscape:snap-page="false"
@@ -2165,38 +2165,38 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.95;font-family:Jost;-inkscape-font-specification:'Jost, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;shape-inside:url(#rect222757-7-7-38);display:inline;fill:#ffffff"><tspan
            x="17.910156"
            y="504.99011"
-           id="tspan46803"><tspan
+           id="tspan20307"><tspan
    style="font-style:normal;font-weight:800;-inkscape-font-specification:'Jost Ultra-Bold'"
-   id="tspan46799">M.S in Computer </tspan><tspan
+   id="tspan20303">M.S in Computer </tspan><tspan
    style="font-style:normal;font-weight:800;-inkscape-font-specification:'Jost Ultra-Bold'"
-   id="tspan46801">Science</tspan>
+   id="tspan20305">Science</tspan>
 </tspan><tspan
            x="17.910156"
            y="516.3901"
-           id="tspan46805">
+           id="tspan20309">
 </tspan><tspan
            x="17.910156"
            y="527.7901"
-           id="tspan46807">Instituto Politécnico Nacional, </tspan><tspan
+           id="tspan20311">Instituto Politécnico Nacional, </tspan><tspan
            x="17.910156"
            y="539.19012"
-           id="tspan46809">IPN
+           id="tspan20313">IPN
 </tspan><tspan
            x="17.910156"
            y="550.59015"
-           id="tspan46811">
+           id="tspan20315">
 </tspan><tspan
            x="17.910156"
            y="561.99017"
-           id="tspan46817"><tspan
+           id="tspan20321"><tspan
    style="font-style:normal;-inkscape-font-specification:Jost"
-   id="tspan46813">2020, </tspan><tspan
+   id="tspan20317">2020, </tspan><tspan
    style="font-style:normal;-inkscape-font-specification:Jost"
-   id="tspan46815">Ciudad de México</tspan>
+   id="tspan20319">Ciudad de México</tspan>
 </tspan><tspan
            x="17.910156"
            y="573.3902"
-           id="tspan46819">
+           id="tspan20323">
 </tspan></text>
     </a>
     <a
@@ -2211,41 +2211,41 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.95;font-family:Jost;-inkscape-font-specification:'Jost, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;shape-inside:url(#rect201529);display:inline;fill:#ffffff"><tspan
            x="17.910156"
            y="504.99011"
-           id="tspan46825"><tspan
+           id="tspan20329"><tspan
    style="font-style:normal;font-weight:800;-inkscape-font-specification:'Jost Ultra-Bold'"
-   id="tspan46821">B. in Genomic </tspan><tspan
+   id="tspan20325">B. in Genomic </tspan><tspan
    style="font-style:normal;font-weight:800;-inkscape-font-specification:'Jost Ultra-Bold'"
-   id="tspan46823">Sciences</tspan>
+   id="tspan20327">Sciences</tspan>
 </tspan><tspan
            x="17.910156"
            y="516.3901"
-           id="tspan46827">
+           id="tspan20331">
 </tspan><tspan
            x="17.910156"
            y="527.7901"
-           id="tspan46829">Universidad Nacional
+           id="tspan20333">Universidad Nacional
 </tspan><tspan
            x="17.910156"
            y="539.19012"
-           id="tspan46831">Autónoma de México,
+           id="tspan20335">Autónoma de México,
 </tspan><tspan
            x="17.910156"
            y="550.59015"
-           id="tspan46833">UNAM
+           id="tspan20337">UNAM
 </tspan><tspan
            x="17.910156"
            y="561.99017"
-           id="tspan46835">
+           id="tspan20339">
 </tspan><tspan
            x="17.910156"
            y="573.3902"
-           id="tspan46839"><tspan
+           id="tspan20343"><tspan
    style="font-style:normal;-inkscape-font-specification:Jost"
-   id="tspan46837">2017, Cuernavaca, Morelos</tspan>
+   id="tspan20341">2017, Cuernavaca, Morelos</tspan>
 </tspan><tspan
            x="17.910156"
            y="584.79022"
-           id="tspan46841">
+           id="tspan20345">
 </tspan></text>
     </a>
     <g
@@ -2329,7 +2329,7 @@
            id="tspan30210"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:Jost;-inkscape-font-specification:'Jost Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
            x="19.692633"
-           y="199.6871">R &amp; Python Programming </tspan></text>
+           y="199.6871">R &amp; Python </tspan></text>
       <g
          id="g28268"
          style="fill:#ffffff;stroke:none"
@@ -2549,7 +2549,7 @@
            id="tspan47022"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:Jost;-inkscape-font-specification:'Jost Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
            x="19.692633"
-           y="228.08459">SQL &amp; Relational DBs </tspan></text>
+           y="228.08459">SQL </tspan></text>
       <g
          id="g47028"
          style="fill:#ffffff;stroke:none"
@@ -2703,33 +2703,33 @@
          y="0"><tspan
            x="144"
            y="111.04482"
-           id="tspan46845"><tspan
+           id="tspan20349"><tspan
              dx="0 3.2427344 0 3.242734 0 0 0 0 0 0 0 0 3.2427349 0 0 0 3.2427349 0 0 0 0 0 0 0 0 0 0 0 3.2427349"
-             id="tspan46843"> I designed and implemented a </tspan></tspan><tspan
+             id="tspan20347"> I designed and implemented a </tspan></tspan><tspan
            x="144"
            y="115.01357"
-           id="tspan46851"><tspan
+           id="tspan20355"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0.8336181 0 0 0 0.83362001"
-             id="tspan46847">framework for Reinforcement </tspan><tspan
+             id="tspan20351">framework for Reinforcement </tspan><tspan
              dx="0.83362001"
-             id="tspan46849">Learning, </tspan></tspan><tspan
+             id="tspan20353">Learning, </tspan></tspan><tspan
            x="144"
            y="118.98232"
-           id="tspan46857"><tspan
+           id="tspan20361"><tspan
              dx="0 0 0 0 0 1.2449574 0 0 0 0 0 0 0 0 0 1.244957 0 0 0 0 1.2449589"
-             id="tspan46853">this concluded with the </tspan><tspan
+             id="tspan20357">this concluded with the </tspan><tspan
              dx="1.2449589 0 0 0 0 0 0 0 0 1.2449589 0 0 1.2449589"
-             id="tspan46855">creation of a </tspan></tspan><tspan
+             id="tspan20359">creation of a </tspan></tspan><tspan
            x="144"
            y="122.95107"
-           id="tspan46863"><tspan
+           id="tspan20367"><tspan
              dx="0 0 0 0 0 0 0 0.59672827 0 0 0 0 0 0 0 0 0.59672731"
-             id="tspan46859">Python library, which </tspan><tspan
+             id="tspan20363">Python library, which </tspan><tspan
              dx="0.59673113 0 0 0 0.59672731 0 0 0.59673113 0 0 0 0 0.59672731"
-             id="tspan46861">can be seen here </tspan></tspan><tspan
+             id="tspan20365">can be seen here </tspan></tspan><tspan
            x="144"
            y="126.91982"
-           id="tspan46865">(link). The library is actively used.</tspan></text>
+           id="tspan20369">(link). The library is actively used.</tspan></text>
     </a>
     <a
        id="a23325"
@@ -2788,31 +2788,31 @@
        y="0"><tspan
          x="78"
          y="219.04482"
-         id="tspan46869"><tspan
+         id="tspan20373"><tspan
            dx="0 2.1079915 0 2.1079915 0 0 0 0 2.1079912 0 0 0 2.1079922 0 0 0 0 0 0 0 2.1079922"
-           id="tspan46867"> I gave the lecture “Unsupervised </tspan></tspan><tspan
+           id="tspan20371"> I gave the lecture “Unsupervised </tspan></tspan><tspan
          x="78"
          y="223.01357"
-         id="tspan46873"><tspan
+         id="tspan20377"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 3.0040817 0 0 0 3.0040817 0 0 0 3.0040836 0 0 0 0 0 0 3.0040836"
-           id="tspan46871">Learning” for the weekly course </tspan></tspan><tspan
+           id="tspan20375">Learning” for the weekly course </tspan></tspan><tspan
          x="78"
          y="226.98232"
-         id="tspan46879"><tspan
+         id="tspan20383"><tspan
            dx="0 0 0 0 0 0 0 0 0 0.16108507 0 0 0 0 0 0 0 0 0.16108507 0 0 0 0.16108507 0 0 0 0.16108507"
-           id="tspan46875">“Machine Learning for the Industry” </tspan><tspan
+           id="tspan20379">“Machine Learning for the Industry” </tspan><tspan
            dx="0.16108507"
-           id="tspan46877">at </tspan></tspan><tspan
+           id="tspan20381">at </tspan></tspan><tspan
          x="78"
          y="230.95107"
-         id="tspan46885"><tspan
+         id="tspan20389"><tspan
            dx="0 0 0 0 2.0785685 0 0 0 2.0785694 0 0 0 0 0 0 0 0 2.0785675"
-           id="tspan46881">the IPN Computer Research </tspan><tspan
+           id="tspan20385">the IPN Computer Research </tspan><tspan
            dx="2.0785694"
-           id="tspan46883">Center, </tspan></tspan><tspan
+           id="tspan20387">Center, </tspan></tspan><tspan
          x="78"
          y="234.91982"
-         id="tspan46887">during its editions of 2019 and 2020.</tspan></text>
+         id="tspan20391">during its editions of 2019 and 2020.</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2841,15 +2841,15 @@
        style="font-size:10.6667px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect223439);fill:#4d4d4d;stroke:none"><tspan
          x="297.00391"
          y="499.39456"
-         id="tspan46889">
+         id="tspan20393">
 </tspan><tspan
          x="297.00391"
          y="512.72794"
-         id="tspan46891">
+         id="tspan20395">
 </tspan><tspan
          x="297.00391"
          y="526.06131"
-         id="tspan46893">
+         id="tspan20397">
 </tspan></text>
     <text
        xml:space="preserve"
@@ -2954,7 +2954,7 @@
          transform="translate(-6.4125521,-5.4220159)"><tspan
            x="29.066105"
            y="161.15677"
-           id="tspan46895">+52 6673 506 506</tspan></text>
+           id="tspan20399">+52 6673 506 506</tspan></text>
     </g>
     <path
        id="path142247"
@@ -3703,33 +3703,33 @@
                id="text84339"><tspan
                  x="77.288246"
                  y="111.04482"
-                 id="tspan46899"><tspan
+                 id="tspan20403"><tspan
                    dx="0 0.71179026 0.71179026 0 0.7117905 0 0 0 0 0 0 0.71179003 0 0 0.71179003 0 0.71179193 0 0 0 0.71178812 0 0 0 0 0.71179003 0 0 0 0 0 0 0 0.71179003"
-                   id="tspan46897">  I worked on a big data project about </tspan></tspan><tspan
+                   id="tspan20401">  I worked on a big data project about </tspan></tspan><tspan
                  x="77.288246"
                  y="115.01357"
-                 id="tspan46905"><tspan
+                 id="tspan20409"><tspan
                    dx="0 0 0 0 0 0 0 0 0 0 0 0.51012415 0 0 0 0 0 0 0 0 0 0.51012224 0 0 0 0 0.51012224"
-                   id="tspan46901">Salmonella enterica. Some critical </tspan><tspan
+                   id="tspan20405">Salmonella enterica. Some critical </tspan><tspan
                    dx="0.51012224"
-                   id="tspan46903">genes </tspan></tspan><tspan
+                   id="tspan20407">genes </tspan></tspan><tspan
                  x="77.288246"
                  y="118.98232"
-                 id="tspan46911"><tspan
+                 id="tspan20415"><tspan
                    dx="0 0 0 0 0 0.86766237 0 0 0 0 0 0.86766237 0 0 0 0 0.86766237 0 0 0 0 0 0.86766237 0 0 0.86766237"
-                   id="tspan46907">were found that could be used </tspan><tspan
+                   id="tspan20411">were found that could be used </tspan><tspan
                    dx="0.86766237"
-                   id="tspan46909">against </tspan></tspan><tspan
+                   id="tspan20413">against </tspan></tspan><tspan
                  x="77.288246"
                  y="122.95107"
-                 id="tspan46917"><tspan
+                 id="tspan20421"><tspan
                    dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.5174313 0 0 0 0 0 0 0 0 0 0 2.5174313"
-                   id="tspan46913">Salmonellosis outbreaks. The </tspan><tspan
+                   id="tspan20417">Salmonellosis outbreaks. The </tspan><tspan
                    dx="2.5174313"
-                   id="tspan46915">results </tspan></tspan><tspan
+                   id="tspan20419">results </tspan></tspan><tspan
                  x="77.288246"
                  y="126.91982"
-                 id="tspan46919">could be seen here (link).</tspan></text>
+                 id="tspan20423">could be seen here (link).</tspan></text>
           </a>
         </g>
       </a>
@@ -3793,83 +3793,83 @@
        y="0"><tspan
          x="144"
          y="201.04482"
-         id="tspan46923"><tspan
+         id="tspan20427"><tspan
            dx="0 0.31906182 0.31906182 0 0.31906193 0 0 0.31906217 0 0.31906122 0 0 0 0 0 0 0 0 0.31906122 0 0 0 0 0 0 0 0.31905931 0 0 0 0 0.31906313"
-           id="tspan46921">  I am a graduate student from Mexico's </tspan></tspan><tspan
+           id="tspan20425">  I am a graduate student from Mexico's </tspan></tspan><tspan
          x="144"
          y="205.01357"
-         id="tspan46927"><tspan
+         id="tspan20431"><tspan
            dx="0 0 0 0 1.4649029 0 0 0 1.4649029 0 0 0 0 0 0 0 0 0 0 0 0 1.4649048 0 0 0 0 0 1.4649029 0 1.4649029"
-           id="tspan46925">two top Universities (UNAM &amp; IPN), </tspan></tspan><tspan
+           id="tspan20429">two top Universities (UNAM &amp; IPN), </tspan></tspan><tspan
          x="144"
          y="208.98232"
-         id="tspan46931"><tspan
+         id="tspan20435"><tspan
            dx="0 0 0 0 0 0 9.4148512 0 0 0 9.414854 0 9.4148502"
-           id="tspan46929">ready for a challenge.
+           id="tspan20433">ready for a challenge.
 </tspan></tspan><tspan
          x="144"
          y="212.95107"
-         id="tspan46933">
+         id="tspan20437">
 </tspan><tspan
          x="144"
          y="216.91982"
-         id="tspan46937"><tspan
+         id="tspan20441"><tspan
            dx="0 0.53745383 0.53745383 0 0 0.53745407 0 0 0 0 0 0 0 0 0 0.53745455 0 0 0.53745264 0 0 0.53745645 0 0 0 0 0 0 0 0 0.53745073"
-           id="tspan46935">  My education is in Computer Science, </tspan></tspan><tspan
+           id="tspan20439">  My education is in Computer Science, </tspan></tspan><tspan
          x="144"
          y="220.88857"
-         id="tspan46941"><tspan
+         id="tspan20445"><tspan
            dx="0 0 0 0 0 0 0 0 2.7875814 0 0 0 0 0 0 0 0 2.7875805 0 2.7875805"
-           id="tspan46939">Machine Learning &amp; Bioinformatics.
+           id="tspan20443">Machine Learning &amp; Bioinformatics.
 </tspan></tspan><tspan
          x="144"
          y="224.85732"
-         id="tspan46945"><tspan
+         id="tspan20449"><tspan
            dx="0 0 0.73550874 0 0 0.73550838 0 0 0 0 0 0 0 0.73550981 0 0 0.73550981 0 0 0 0 0 0 0 0 0 0 0 0 0 0.735506 0 0 0 0 0.73550981"
-           id="tspan46943">I am skilled at understanding data sets </tspan></tspan><tspan
+           id="tspan20447">I am skilled at understanding data sets </tspan></tspan><tspan
          x="144"
          y="228.82607"
-         id="tspan46949"><tspan
+         id="tspan20453"><tspan
            dx="0 0 0 0 2.8899922 0 0 0 0 0 0 0 0 0 0 0 0 0 2.8899937 0 2.8899937 0 0 0 0 2.8899937"
-           id="tspan46947">via Visualization &amp; Data Analysis.
+           id="tspan20451">via Visualization &amp; Data Analysis.
 </tspan></tspan><tspan
          x="144"
          y="232.79482"
-         id="tspan46951">
+         id="tspan20455">
 </tspan><tspan
          x="144"
          y="236.76357"
-         id="tspan46955"><tspan
+         id="tspan20459"><tspan
            dx="0 0.45796663 0.45796663 0 0 0 0.45796722 0 0 0 0 0 0 0 0 0 0 0.45796579 0 0.4579677 0 0 0 0.4579677 0 0 0 0 0.4579677 0 0.45796388"
-           id="tspan46953">  For breakfast, I get CSVs &amp; RegExes, </tspan></tspan><tspan
+           id="tspan20457">  For breakfast, I get CSVs &amp; RegExes, </tspan></tspan><tspan
          x="144"
          y="240.73232"
-         id="tspan46959"><tspan
+         id="tspan20463"><tspan
            dx="0 0 0 0 0.98548073 0 0 0 0.9854812 0 0 0 0 0 0 0.9854812 0 0 0 0 0.9854812 0 0 0 0 0 0 0.9854793"
-           id="tspan46957">and for dinner some report generation </tspan></tspan><tspan
+           id="tspan20461">and for dinner some report generation </tspan></tspan><tspan
          x="144"
          y="244.70107"
-         id="tspan46963"><tspan
+         id="tspan20467"><tspan
            dx="0 0 0 0 0 0.16053814 0 0 0 0 0 0 0 0 0 0.16053766 0 0 0 0 0 0.16053766 0 0 0 0 0.16053575 0 0.16053957 0 0 0 0.16053575 0 0 0 0 0 0 0 0.16053575"
-           id="tspan46961">with top-notch tools like R and Python. I </tspan></tspan><tspan
+           id="tspan20465">with top-notch tools like R and Python. I </tspan></tspan><tspan
          x="144"
          y="248.66982"
-         id="tspan46967"><tspan
+         id="tspan20471"><tspan
            dx="0 0 0 0 0 0 0 0 1.3056717 0 0 0 0 1.3056698 0 0 0 0 0 0 0 0 0 1.3056698 0 0 0 0 0 0 0 0 0 0 0 1.3056698"
-           id="tspan46965">believe that tenacious exploration and </tspan></tspan><tspan
+           id="tspan20469">believe that tenacious exploration and </tspan></tspan><tspan
          x="144"
          y="252.63857"
-         id="tspan46971"><tspan
+         id="tspan20475"><tspan
            dx="0 0 0 0 0 0 0 0 0 0.96452707 0 0 0 0.96452707 0 0 0 0.96452898 0 0 0.96452898 0 0 0 0 0 0 0 0 0.96452516"
-           id="tspan46969">modeling are key to business insights.
+           id="tspan20473">modeling are key to business insights.
 </tspan></tspan><tspan
          x="144"
          y="256.60732"
-         id="tspan46973">
+         id="tspan20477">
 </tspan><tspan
          x="144"
          y="260.57607"
-         id="tspan46975">
+         id="tspan20479">
 </tspan></text>
   </g>
 </svg>
